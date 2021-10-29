@@ -1,6 +1,7 @@
 # Hide-18MASK
 ## Introduction  
 主要是覆蓋相關電商平台的CSS的Class屬性，達成去除遮蔽圖的效果  
+目前僅支援MOMO、PCHOME  
 效果如下圖所示  
 <img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/Hide-18Mask/result1.png" width="40%" style="display:inline-block">
 <img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/Hide-18Mask/result2.jpg" width="40%" style="display:inline-block">
