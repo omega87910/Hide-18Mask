@@ -1,0 +1,6 @@
+.s_ticrf {
+    display: none !important;
+}
+.s_ticrf+img {
+    opacity: 1 !important;
+}
