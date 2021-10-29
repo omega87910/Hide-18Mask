@@ -1,4 +1,4 @@
-# HIDE-18MASK
+# Hide-18MASK
 ## Introduction  
 主要是覆蓋相關電商平台的CSS的Class屬性，達成去除遮蔽圖的效果  
 效果如下圖所示  
