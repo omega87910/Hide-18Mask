@@ -12,7 +12,9 @@
     },
     "content_scripts": [
         {
-            "matches": ["https://www.momoshop.com.tw/*"],
+            "matches": ["https://www.momoshop.com.tw/*",
+                        "https://www.momomall.com.tw/*"
+                      ],
             "run_at": "document_end",
             "css": ["./platform/momo/content.css"]
         },{
