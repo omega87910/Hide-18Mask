@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "隱藏電商18+遮蔽圖",
     "description": "隱藏在momo、pchome等電商平台的18+遮蔽圖",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icons":{
       "128": "img/icon128.png"
     },
