@@ -6,6 +6,8 @@
 <img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/Hide-18Mask/result1.png" width="40%" style="display:inline-block">
 <img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/Hide-18Mask/result2.jpg" width="40%" style="display:inline-block">
 ## Usage  
+### Chrome應用商店下載（推薦）
+<a href="https://chrome.google.com/webstore/detail/%E9%9A%B1%E8%97%8F%E9%9B%BB%E5%95%8618%20%E9%81%AE%E8%94%BD%E5%9C%96/aakpgdnifjnlafckfmlhmakpeahnepbb?hl=zh-TW&authuser=0" target="_blank">前往Chrome應用商店</a>  
 ### Github安裝 (請按照下列步驟安裝)  
 #### 1.下載最新釋出的版本  
 <a href="https://github.com/omega87910/Hide-18Mask/releases" target="_blank">GitHub下載區</a>  
